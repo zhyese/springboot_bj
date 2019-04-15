@@ -26,7 +26,6 @@
 
 ## 3、环境准备
 
-http://www.gulixueyuan.com/ 谷粒学院
 
 环境约束
 
